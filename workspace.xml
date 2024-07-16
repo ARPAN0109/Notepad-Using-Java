@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f16c3e-e4a2-497a-a3e0-b3aee4d9810b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DAY2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/DAY2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/out/production/DAY2/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/out/production/DAY2/avg5no.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/out/production/DAY2/newbie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/out/production/DAY2/sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/out/production/DAY2/vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/avg5no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/greatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/menuDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/newbie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/print5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/printTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/sumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/useOfStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/wertr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY2/src/zzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core-java-tranning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/core-java-tranning/First.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/core-java-tranning/primeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/primeSum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EmHFoNRwGuI94dEHVswEKY6OIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f16c3e-e4a2-497a-a3e0-b3aee4d9810b" name="Changes" comment="" />
+      <created>1663193744882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663193744882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
